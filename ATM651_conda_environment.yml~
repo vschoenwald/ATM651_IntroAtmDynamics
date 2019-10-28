@@ -16,13 +16,11 @@ dependencies:
    - shapely
    - siphon
    - xarray
-   - fastparquet
-   - psutil
-   - fsspec
    - pip
    - ffmpeg
    - pytest
    - pip:
+     - python-awips
      - mpldatacursor
-     - ipyidv
-     - mseplots-pkg
+     - drilsdown
+     - mesplots-pkg
