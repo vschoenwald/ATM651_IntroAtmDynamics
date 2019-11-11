@@ -12,7 +12,7 @@
 |10|Current wx (great front) & WH midlatitude storm (Ch 8). Assign final WH Ch7 problems.|**Read Ch9.1 and prepare for general verbal Q&A (study question 9.7)**|
 |11|**HW due: WH 7.33-34, 7.35, 7.36, 7.38 & show that it can be expressed as vertical advection of either dry static energy or potential temperature in both z and p coordinates, 7.40 using 7.39, 7.43 & 7.45, 7.44.** Also include **a 1-paragraph project idea [(resources)](https://github.com/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/README.md)**|**Do and upload** to Github the [LMT_3.2.ipynb Lab notebook](https://nbviewer.jupyter.org/github/ATMOcanes/ATM651_IntroAtmDynamics/blob/master/Notebooks/LackmannMapesTyle_3.2.ipynb) (in course Notebooks folder)| 
 |12|Reading Ch.9 together. Make a hypothes.is account and install their Chrome plugin. Make annotations, and respond to one or more pre-existing annotation. How chaotic will this be with 11 of us? Let's find out. [My annotated Ch9](https://hyp.is/3ZI0DPmIEemNRccqX5PD3Q/cup.aos.wisc.edu/453/2016/readings/Atmospheric_Science-Wallace_Hobbs.pdf)|**HW due: WH exercises 9.8-9.11, 9.13-9.15, 9.17, 9.19, 9.24**|
-|13|PBL Lab|moist convection|
-|14|moist convection|moist convection lab|
+|13|Final 2 weeks: holism (IDV->Jupyter case studies). Lecture: synoptic lifting, the QG omega equation ([Wikipedia](https://en.wikipedia.org/wiki/Omega_equation). Assign [notebook]() to adapt to your case.| Lecture: deep moist convection inferred from  conserved variable profiles (Tsai)|
+|14|Student case study notebooks in forks please, for first look| Leah presentation. Quiz: you write down from memory the Primitive or Boussinesq equations and know the term names, [review sheet here](). Final case study notebooks in forks please.  |
 |thanksgiving week|xxx|xxx|
-|Dec|Last class session: review + quiz|10 min presentations Weds Dec 4?|
+|Dec|Last class session: entertaining lecture (missable if need be)|AGU style 12 min (+3' questions) final project presentations Weds Dec 4 10am|
